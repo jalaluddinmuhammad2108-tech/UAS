@@ -76,9 +76,12 @@ Menampilkan cover buku beresolusi besar (**–L = Large**).
 ## 🛠 Cara Instalasi dan Menjalankan Aplikasi
 
 ### **1. Clone Repository**
-```bash
 git clone https://github.com/username/uas_online_book.git
 ### **2. Masuk ke Folder Project**
 ### **3. Install Dependency**
-### **4. Jalankan Aplikasi**
+### **4. Jalankan Aplikasiy**
 Untuk menjalankan di Android Emulator:
+
+
+
+
